@@ -36,3 +36,5 @@ Aprendendo CSS | Mentoria Desenvolvendome
 - 33_CSS_3D_Transforms
 - 34_CSS_Transitions
 - 35_CSS_Animations
+
+- Selected exercises from the website: https://www.w3schools.com -
