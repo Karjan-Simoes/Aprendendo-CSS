@@ -1,6 +1,6 @@
 # Aprendendo-CSS
 Aprendendo CSS | Mentoria Desnvolvendome 
-Exercícios:
+- Exercícios:
 - 01_CSS_Selectors
 - 02_CSS_HowTo
 - 03_CSS_background
