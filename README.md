@@ -1,5 +1,5 @@
 # Aprendendo-CSS
-Aprendendo CSS | Mentoria Desnvolvendome 
+Aprendendo CSS | Mentoria Desenvolvendome 
 - Exercícios:
 - 01_CSS_Selectors
 - 02_CSS_HowTo
